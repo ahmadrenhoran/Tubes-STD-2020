@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1587741945 source:c:\users\62852\music\stack\stack reverse string\std\t.cpp
+	"t.h"
+
+1587741349 source:c:\users\62852\music\stack\stack reverse string\std\main.cpp
+	"t.h"
+
+1587739881 c:\users\62852\music\stack\stack reverse string\std\t.h
+	<iostream>
+	<string>
+
+1587742018 source:c:\users\62852\music\std\main.cpp
+	"t.h"
+
+1587739881 c:\users\62852\music\std\t.h
+	<iostream>
+	<string>
+
+1587741945 source:c:\users\62852\music\std\t.cpp
+	"t.h"
+
+1587787231 source:c:\users\62852\music\tubes\main.cpp
+	"t.h"
+
+1587739881 c:\users\62852\music\tubes\t.h
+	<iostream>
+	<string>
+
+1587771278 source:c:\users\62852\music\tubes\t.cpp
+	"t.h"
+
+1587787231 source:x:\school\music\tubes\main.cpp
+	"t.h"
+
+1587739881 x:\school\music\tubes\t.h
+	<iostream>
+	<string>
+
+1587771278 source:x:\school\music\tubes\t.cpp
+	"t.h"
+
+1587771278 source:d:\kuliah semester 4\sistem cerdas (3)\tubes\tubes\t.cpp
+	"t.h"
+
+1587739881 d:\kuliah semester 4\sistem cerdas (3)\tubes\tubes\t.h
+	<iostream>
+	<string>
+
