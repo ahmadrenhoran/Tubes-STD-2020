@@ -1,1 +1,3 @@
 # asnd
+
+TUGAS WGTIK
